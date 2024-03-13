@@ -1,16 +1,26 @@
-### Hi there 👋
+## 🔹Olá mundo!🔹
 
-<!--
-**Anac-Gomes/Anac-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Bem-vindo ao meu Github para projetos academicos!
 
-Here are some ideas to get you started:
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="Olá Mundo, Carol na area!" src="https://i.imgur.com/gFsDG2y.gif" align="left" height="200" width="200" />
+
+</div> 
+
+<h3> &nbsp; Prazer, sou a Ana Carolina</h3>
+
+&nbsp;  • 📘 Graduanda em BSI <br>
+&nbsp;  • 🧾 Trabalho <br>
+&nbsp;  • 🐈‍⬛ Amo gatos <br>
+&nbsp;  • 🖥️ Aventurando em:
+<i>Java, Javascrit, CSS, HTML e Kolin</i> 
+
+<br>
+
+## Meu status no Github
+![Anac-Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=Anac-Gomes&show_icons=true&bg_color=232323&title_color=FFFFFF&text_color=828282&icon_color=BBFFFF&border_color=BBFFFF)
+
+<br>
+
+> Até breve!
