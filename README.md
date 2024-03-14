@@ -3,9 +3,7 @@
 > Bem-vindo ao meu Github para projetos academicos!
 
 <div>
-
 <img alt="Olá Mundo, Carol na area!" src="https://i.imgur.com/gFsDG2y.gif" align="left" height="200" width="200" />
-
 </div> 
 
 <h3> &nbsp; Prazer, sou a Ana Carolina</h3>
@@ -14,7 +12,7 @@
 &nbsp;  • 🧾 Trabalho <br>
 &nbsp;  • 🐈‍⬛ Amo gatos <br>
 &nbsp;  • 🖥️ Aventurando em:
-<i>Java, Javascrit, CSS, HTML e Kolin</i> 
+<i>Java, Javascrit, CSS, HTML e Kotlin</i> 
 
 <br>
 <br>
