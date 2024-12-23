@@ -9,7 +9,6 @@
 <h3> &nbsp; Prazer, sou a Ana Carolina</h3>
 
 &nbsp;  • 📘 Graduanda em BSI <br>
-&nbsp;  • 🧾 Trabalho <br>
 &nbsp;  • 🐈‍⬛ Amo gatos <br>
 &nbsp;  • 🖥️ Aventurando em:
 <i>Java, Javascrit, CSS, HTML e Kotlin</i> 
